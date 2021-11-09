@@ -1,0 +1,24 @@
+{
+  "name": "@hexlet/code",
+  "version": "0.0.1",
+  "description": "Task manager",
+  "main": "server/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MityaDementiy/js-web-development-project-lvl4.git"
+  },
+  "keywords": [
+    "task-manager",
+    "fastify",
+    "nodejs"
+  ],
+  "author": "Mitya Dementiy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MityaDementiy/js-web-development-project-lvl4/issues"
+  },
+  "homepage": "https://github.com/MityaDementiy/js-web-development-project-lvl4#readme"
+}
